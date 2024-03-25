@@ -1,0 +1,2 @@
+# TensorflowDeepLabV3Plus-Image-Segmentation-Augmented-GastrointestinalPolyp
+TensorflowDeepLabV3Plus Image Segmentation for GastrointestinalPolyp based on Online Augmentation
