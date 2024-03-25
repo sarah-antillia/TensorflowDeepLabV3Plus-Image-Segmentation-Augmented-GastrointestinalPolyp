@@ -430,10 +430,10 @@ Thomas de Lange, Dag Johansen, and H˚avard D. Johansen<br>
 https://arxiv.org/pdf/1911.07069v1.pdf
 </pre>
 
-<b>3. keras-unet-collection: _model_u2net_2d</b><br>
-Yingkai (Kyle) Sha<br>
+<b>3. DeepLabV3Plus-Tf2.x</b><br>
+TanyaChutani<br>
 <pre>
- https://github.com/yingkaisha/keras-unet-collection/blob/main/keras_unet_collection/_model_u2net_2d.py
+https://github.com/TanyaChutani/DeepLabV3Plus-Tf2.x/blob/master/notebook/DeepLab_V3_Plus.ipynb
 </pre>
 
 <b>4. TensorflowSwinUNet-Image-Segmentation-Augmented-GastrointestinalPolyp</b><br>
